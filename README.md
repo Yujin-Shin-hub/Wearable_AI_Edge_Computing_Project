@@ -5,6 +5,7 @@
 - Gained hands-on experience with **LED control and basic circuit configuration**.  
 - Studied how to implement **multi-dimensional execution** in hardware programming using **Interrupts and millis()**.  
 - Learned to use the **internal input pull-up resistor** to prevent **floating states**, which helped solidify the fundamentals of embedded programming.
+  
 ![image](https://github.com/user-attachments/assets/746b3279-e26c-488b-b322-162cde85bb84)
 ![image](https://github.com/user-attachments/assets/1657ae80-6be7-4125-be02-3f4ccdfdf77e)
 ![image](https://github.com/user-attachments/assets/950b47c8-81f6-4174-9853-ca2a23c2ac61)
